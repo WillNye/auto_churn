@@ -1,4 +1,4 @@
-from cookify.settings.base import *
+from auto_churn.settings.base import *
 
 __author__ = 'William'
 

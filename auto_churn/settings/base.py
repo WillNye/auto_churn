@@ -13,6 +13,7 @@ SECRET_KEY = SETTINGS['secretKey']
 # Application definition
 PROJECT_APPS = [
     'core',
+    'credit_card',
 ]
 
 INSTALLED_APPS = [
