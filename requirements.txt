@@ -13,7 +13,7 @@ django-jenkins==0.110.0
 django-redis==4.8.0
 django-rest-swagger==2.1.2
 django-storages==1.6.5
-djangorestframework==3.5.4
+djangorestframework==3.11.2
 docutils==0.14
 flake8==3.4.1
 gunicorn==19.7.1
